@@ -1,0 +1,5 @@
+print("¡Hola, mundo!")
+print("desde Python")
+print("Desde Geany")
+print(3.14)
+print("3.14")
